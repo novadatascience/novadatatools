@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "NovaDataTools", "NovaDataTools.sqlproj", "{72EC0363-8930-4AE0-8B5A-CD4EA3E6B298}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72EC0363-8930-4AE0-8B5A-CD4EA3E6B298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72EC0363-8930-4AE0-8B5A-CD4EA3E6B298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72EC0363-8930-4AE0-8B5A-CD4EA3E6B298}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{72EC0363-8930-4AE0-8B5A-CD4EA3E6B298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72EC0363-8930-4AE0-8B5A-CD4EA3E6B298}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
